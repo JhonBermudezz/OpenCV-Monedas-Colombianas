@@ -1,5 +1,7 @@
 Spanish
 
+IMPORTANTE INSTALAR OPEN CV2
+
 Se debe de tener instalado en el celular el droid cam y en el computador droid cam client, 
 si quieres utilizar camara externa
 Este programa esta con monedas colombianas 
@@ -21,6 +23,8 @@ if area<13000 and area > 12000: #Aca se cambiaria los valor haciendo el calculo 
 
 
 English
+
+IMPORTANTE INSTALL OPENCV2
 
 The droid cam must be installed on the cell phone and the droid cam client on the computer,
 if you want to use external camera
